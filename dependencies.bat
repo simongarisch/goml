@@ -1,0 +1,17 @@
+go get github.com/kniren/gota/...
+go get github.com/sajari/regression 
+go get github.com/sjwhitworth/golearn
+go get github.com/montanaflynn/stats
+go get github.com/boltdb/bolt
+go get github.com/patrickmn/go-cache
+go get github.com/chewxy/math32
+go get github.com/chewxy/hm
+go get gorgonia.org/vecf64
+go get gorgonia.org/vecf32
+go get github.com/awalterschulze/gographviz
+go get github.com/leesper/go_rng
+go get github.com/pkg/errors
+go get github.com/stretchr/testify/assert
+go get github.com/petar/GoMNIST
+go get github.com/cdipaolo/goml/...
+go get github.com/gonum/gonum
